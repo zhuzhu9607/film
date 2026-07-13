@@ -4,4 +4,5 @@ opencv-python-headless==4.11.0.86
 tifffile==2025.6.11
 rawpy==0.25.0
 imagecodecs==2025.3.30
+Pillow>=11.2.1,<13
 pyinstaller==6.14.2
